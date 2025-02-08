@@ -45,7 +45,7 @@
         "chat-log": true,
         "auto-reconnect": true,
         "delay": 120,
-        "timeout": 3600
+        "timeout": 360
         
     }
 }
